@@ -22,6 +22,7 @@
    },
    runningBalance: {
      type: Number,
+     
      required: ['true', 'balance is required']
    }
  })
